@@ -1,8 +1,21 @@
 # Change Log
 
-## [v1.4.2](https://github.com/nubisproject/nubis-lambda-user-management/tree/v1.4.2) (2017-05-03)
+## [v1.5.0](https://github.com/nubisproject/nubis-lambda-user-management/tree/v1.5.0) (2017-06-24)
+[Full Changelog](https://github.com/nubisproject/nubis-lambda-user-management/compare/v1.4.2...v1.5.0)
+
 **Merged pull requests:**
 
+- Add email to consul [\#5](https://github.com/nubisproject/nubis-lambda-user-management/pull/5) ([tinnightcap](https://github.com/tinnightcap))
+
+## [v1.4.2](https://github.com/nubisproject/nubis-lambda-user-management/tree/v1.4.2) (2017-05-03)
+**Closed issues:**
+
+- Tag v1.4.2 release [\#2](https://github.com/nubisproject/nubis-lambda-user-management/issues/2)
+
+**Merged pull requests:**
+
+- Merge v1.4.2 release into develop. \[skip ci\] [\#4](https://github.com/nubisproject/nubis-lambda-user-management/pull/4) ([tinnightcap](https://github.com/tinnightcap))
+- Update CHANGELOG for v1.4.2 release \[skip ci\] [\#3](https://github.com/nubisproject/nubis-lambda-user-management/pull/3) ([tinnightcap](https://github.com/tinnightcap))
 - Moving lambda function to independant repository [\#1](https://github.com/nubisproject/nubis-lambda-user-management/pull/1) ([tinnightcap](https://github.com/tinnightcap))
 
 
