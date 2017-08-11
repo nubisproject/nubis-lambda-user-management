@@ -5,6 +5,7 @@
 
 **Merged pull requests:**
 
+- Update CHANGELOG for v1.5.1 release \[skip ci\] [\#11](https://github.com/nubisproject/nubis-lambda-user-management/pull/11) ([tinnightcap](https://github.com/tinnightcap))
 - Update CHANGELOG for v1.5.1 release \[skip ci\] [\#10](https://github.com/nubisproject/nubis-lambda-user-management/pull/10) ([tinnightcap](https://github.com/tinnightcap))
 
 ## [v1.5.0](https://github.com/nubisproject/nubis-lambda-user-management/tree/v1.5.0) (2017-06-24)
