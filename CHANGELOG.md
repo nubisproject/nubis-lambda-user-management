@@ -1,15 +1,25 @@
 # Change Log
 
-## [v1.5.1](https://github.com/nubisproject/nubis-lambda-user-management/tree/v1.5.1) (2017-08-11)
+## [v2.0.0](https://github.com/nubisproject/nubis-lambda-user-management/tree/v2.0.0) (2017-10-05)
+[Full Changelog](https://github.com/nubisproject/nubis-lambda-user-management/compare/v1.5.1...v2.0.0)
+
+**Merged pull requests:**
+
+- update to nubis-user-management v2.0.0 [\#21](https://github.com/nubisproject/nubis-lambda-user-management/pull/21) ([gozer](https://github.com/gozer))
+
+## [v1.5.1](https://github.com/nubisproject/nubis-lambda-user-management/tree/v1.5.1) (2017-08-18)
 [Full Changelog](https://github.com/nubisproject/nubis-lambda-user-management/compare/v1.5.0...v1.5.1)
 
 **Closed issues:**
 
+- Tag v1.5.1 release [\#17](https://github.com/nubisproject/nubis-lambda-user-management/issues/17)
 - Tag v1.5.1 release [\#14](https://github.com/nubisproject/nubis-lambda-user-management/issues/14)
 - Tag v1.5.1 release [\#9](https://github.com/nubisproject/nubis-lambda-user-management/issues/9)
 
 **Merged pull requests:**
 
+- Merge v1.5.1 release into develop. \[skip ci\] [\#19](https://github.com/nubisproject/nubis-lambda-user-management/pull/19) ([tinnightcap](https://github.com/tinnightcap))
+- Update CHANGELOG for v1.5.1 release \[skip ci\] [\#18](https://github.com/nubisproject/nubis-lambda-user-management/pull/18) ([tinnightcap](https://github.com/tinnightcap))
 - Merge v1.5.1 release into develop. \[skip ci\] [\#16](https://github.com/nubisproject/nubis-lambda-user-management/pull/16) ([tinnightcap](https://github.com/tinnightcap))
 - Update CHANGELOG for v1.5.1 release \[skip ci\] [\#15](https://github.com/nubisproject/nubis-lambda-user-management/pull/15) ([tinnightcap](https://github.com/tinnightcap))
 - Merge v1.5.1 release into develop. \[skip ci\] [\#13](https://github.com/nubisproject/nubis-lambda-user-management/pull/13) ([tinnightcap](https://github.com/tinnightcap))
