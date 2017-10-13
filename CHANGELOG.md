@@ -9,6 +9,7 @@
 
 **Merged pull requests:**
 
+- Update CHANGELOG for v2.0.1 release \[skip ci\] [\#31](https://github.com/nubisproject/nubis-lambda-user-management/pull/31) ([tinnightcap](https://github.com/tinnightcap))
 - Merge v2.0.1 release into develop. \[skip ci\] [\#29](https://github.com/nubisproject/nubis-lambda-user-management/pull/29) ([tinnightcap](https://github.com/tinnightcap))
 - Update CHANGELOG for v2.0.1 release \[skip ci\] [\#28](https://github.com/nubisproject/nubis-lambda-user-management/pull/28) ([tinnightcap](https://github.com/tinnightcap))
 
