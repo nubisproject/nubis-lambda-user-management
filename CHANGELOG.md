@@ -1,5 +1,24 @@
 # Change Log
 
+## [v2.0.4](https://github.com/nubisproject/nubis-lambda-user-management/tree/v2.0.4) (2017-12-08)
+[Full Changelog](https://github.com/nubisproject/nubis-lambda-user-management/compare/v2.0.3...v2.0.4)
+
+**Closed issues:**
+
+- Tag v2.0.4 release [\#42](https://github.com/nubisproject/nubis-lambda-user-management/issues/42)
+
+## [v2.0.3](https://github.com/nubisproject/nubis-lambda-user-management/tree/v2.0.3) (2017-11-02)
+[Full Changelog](https://github.com/nubisproject/nubis-lambda-user-management/compare/v2.0.2...v2.0.3)
+
+**Closed issues:**
+
+- Tag v2.0.3 release [\#39](https://github.com/nubisproject/nubis-lambda-user-management/issues/39)
+
+**Merged pull requests:**
+
+- Merge v2.0.3 release into develop. \[skip ci\] [\#41](https://github.com/nubisproject/nubis-lambda-user-management/pull/41) ([tinnightcap](https://github.com/tinnightcap))
+- Update CHANGELOG for v2.0.3 release \[skip ci\] [\#40](https://github.com/nubisproject/nubis-lambda-user-management/pull/40) ([tinnightcap](https://github.com/tinnightcap))
+
 ## [v2.0.2](https://github.com/nubisproject/nubis-lambda-user-management/tree/v2.0.2) (2017-10-24)
 [Full Changelog](https://github.com/nubisproject/nubis-lambda-user-management/compare/v2.0.1...v2.0.2)
 
