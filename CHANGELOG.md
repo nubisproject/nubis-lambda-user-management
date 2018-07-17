@@ -6,6 +6,12 @@
 **Closed issues:**
 
 - Tag v2.1.0 release [\#50](https://github.com/nubisproject/nubis-lambda-user-management/issues/50)
+- Tag v2.2.0 release [\#53](https://github.com/nubisproject/nubis-lambda-user-management/issues/53)
+
+**Merged pull requests:**
+
+- Update CHANGELOG for v2.2.0 release \[skip ci\] [\#55](https://github.com/nubisproject/nubis-lambda-user-management/pull/55) ([nubis-automation](https://github.com/nubis-automation))
+- Update CHANGELOG for v2.2.0 release \[skip ci\] [\#54](https://github.com/nubisproject/nubis-lambda-user-management/pull/54) ([nubis-automation](https://github.com/nubis-automation))
 
 ## [v2.1.0](https://github.com/nubisproject/nubis-lambda-user-management/tree/v2.1.0) (2018-02-02)
 [Full Changelog](https://github.com/nubisproject/nubis-lambda-user-management/compare/v2.0.4...v2.1.0)
