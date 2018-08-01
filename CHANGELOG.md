@@ -6,6 +6,7 @@
 **Closed issues:**
 
 - Tag v2.2.0 release [\#53](https://github.com/nubisproject/nubis-lambda-user-management/issues/53)
+- Tag v2.3.0 release [\#68](https://github.com/nubisproject/nubis-lambda-user-management/issues/68)
 - Tag v2.3.0 release [\#65](https://github.com/nubisproject/nubis-lambda-user-management/issues/65)
 - Tag v2.3.0 release [\#62](https://github.com/nubisproject/nubis-lambda-user-management/issues/62)
 - Tag v2.3.0 release [\#59](https://github.com/nubisproject/nubis-lambda-user-management/issues/59)
@@ -13,6 +14,8 @@
 
 **Merged pull requests:**
 
+- Update CHANGELOG for v2.3.0 release \[skip ci\] [\#70](https://github.com/nubisproject/nubis-lambda-user-management/pull/70) ([nubis-automation](https://github.com/nubis-automation))
+- Update CHANGELOG for v2.3.0 release \[skip ci\] [\#69](https://github.com/nubisproject/nubis-lambda-user-management/pull/69) ([nubis-automation](https://github.com/nubis-automation))
 - Update CHANGELOG for v2.3.0 release \[skip ci\] [\#67](https://github.com/nubisproject/nubis-lambda-user-management/pull/67) ([nubis-automation](https://github.com/nubis-automation))
 - Update CHANGELOG for v2.3.0 release \[skip ci\] [\#66](https://github.com/nubisproject/nubis-lambda-user-management/pull/66) ([nubis-automation](https://github.com/nubis-automation))
 - Update CHANGELOG for v2.3.0 release \[skip ci\] [\#64](https://github.com/nubisproject/nubis-lambda-user-management/pull/64) ([nubis-automation](https://github.com/nubis-automation))
