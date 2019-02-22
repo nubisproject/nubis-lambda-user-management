@@ -5,17 +5,20 @@
 
 **Closed issues:**
 
-- Tag v2.4.0 release [\#81](https://github.com/nubisproject/nubis-lambda-user-management/issues/81)
+- Tag v2.4.0 release [\#84](https://github.com/nubisproject/nubis-lambda-user-management/issues/84)
 
 ## [v2.4.0](https://github.com/nubisproject/nubis-lambda-user-management/tree/v2.4.0) (2019-02-22)
 [Full Changelog](https://github.com/nubisproject/nubis-lambda-user-management/compare/v2.3.1...v2.4.0)
 
 **Closed issues:**
 
+- Tag v2.4.0 release [\#81](https://github.com/nubisproject/nubis-lambda-user-management/issues/81)
 - Tag v2.3.1 release [\#77](https://github.com/nubisproject/nubis-lambda-user-management/issues/77)
 
 **Merged pull requests:**
 
+- Update CHANGELOG for v2.4.0 release \[skip ci\] [\#86](https://github.com/nubisproject/nubis-lambda-user-management/pull/86) ([nubis-automation](https://github.com/nubis-automation))
+- Update CHANGELOG for v2.4.0 release \[skip ci\] [\#85](https://github.com/nubisproject/nubis-lambda-user-management/pull/85) ([nubis-automation](https://github.com/nubis-automation))
 - Update CHANGELOG for v2.4.0 release \[skip ci\] [\#83](https://github.com/nubisproject/nubis-lambda-user-management/pull/83) ([nubis-automation](https://github.com/nubis-automation))
 - Update CHANGELOG for v2.4.0 release \[skip ci\] [\#82](https://github.com/nubisproject/nubis-lambda-user-management/pull/82) ([nubis-automation](https://github.com/nubis-automation))
 - Update README with example test [\#80](https://github.com/nubisproject/nubis-lambda-user-management/pull/80) ([tinnightcap](https://github.com/tinnightcap))
