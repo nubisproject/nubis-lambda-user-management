@@ -1,17 +1,18 @@
 # Change Log
 
-## [v2.4.0](https://github.com/nubisproject/nubis-lambda-user-management/tree/v2.4.0) (2019-02-23)
+## [v2.4.0](https://github.com/nubisproject/nubis-lambda-user-management/tree/v2.4.0) (2019-03-05)
 [Full Changelog](https://github.com/nubisproject/nubis-lambda-user-management/compare/v2.4.0...v2.4.0)
 
 **Closed issues:**
 
-- Tag v2.4.0 release [\#96](https://github.com/nubisproject/nubis-lambda-user-management/issues/96)
+- Tag v2.4.0 release [\#99](https://github.com/nubisproject/nubis-lambda-user-management/issues/99)
 
 ## [v2.4.0](https://github.com/nubisproject/nubis-lambda-user-management/tree/v2.4.0) (2019-02-23)
 [Full Changelog](https://github.com/nubisproject/nubis-lambda-user-management/compare/v2.3.1...v2.4.0)
 
 **Closed issues:**
 
+- Tag v2.4.0 release [\#96](https://github.com/nubisproject/nubis-lambda-user-management/issues/96)
 - Tag v2.4.0 release [\#93](https://github.com/nubisproject/nubis-lambda-user-management/issues/93)
 - Tag v2.4.0 release [\#90](https://github.com/nubisproject/nubis-lambda-user-management/issues/90)
 - Tag v2.4.0 release [\#87](https://github.com/nubisproject/nubis-lambda-user-management/issues/87)
@@ -21,6 +22,8 @@
 
 **Merged pull requests:**
 
+- Update CHANGELOG for v2.4.0 release \[skip ci\] [\#101](https://github.com/nubisproject/nubis-lambda-user-management/pull/101) ([nubis-automation](https://github.com/nubis-automation))
+- Update CHANGELOG for v2.4.0 release \[skip ci\] [\#100](https://github.com/nubisproject/nubis-lambda-user-management/pull/100) ([nubis-automation](https://github.com/nubis-automation))
 - Update CHANGELOG for v2.4.0 release \[skip ci\] [\#98](https://github.com/nubisproject/nubis-lambda-user-management/pull/98) ([nubis-automation](https://github.com/nubis-automation))
 - Update CHANGELOG for v2.4.0 release \[skip ci\] [\#97](https://github.com/nubisproject/nubis-lambda-user-management/pull/97) ([nubis-automation](https://github.com/nubis-automation))
 - Update CHANGELOG for v2.4.0 release \[skip ci\] [\#95](https://github.com/nubisproject/nubis-lambda-user-management/pull/95) ([nubis-automation](https://github.com/nubis-automation))
